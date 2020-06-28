@@ -1,6 +1,11 @@
 *.pdf
 *.zip
 
+*/*/__pycache__/*
+*/*/*.pkl
+*/*/*.gz
+#*/*/*.pyc
+
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebook
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebook
 
